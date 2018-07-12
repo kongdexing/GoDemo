@@ -16,5 +16,6 @@ func main() {
 	c := 10
 	fmt.Println(a, b, c)
 	fmt.Println(a)
+	fmt.Println(b)
 
 }
