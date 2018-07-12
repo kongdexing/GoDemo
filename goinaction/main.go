@@ -17,5 +17,5 @@ func main() {
 	fmt.Println(a, b, c)
 	fmt.Println(a)
 	fmt.Println(b)
-
+	fmt.Println(c)
 }
