@@ -15,5 +15,6 @@ func main() {
 	var b = 10
 	c := 10
 	fmt.Println(a, b, c)
+	fmt.Println(a)
 
 }
